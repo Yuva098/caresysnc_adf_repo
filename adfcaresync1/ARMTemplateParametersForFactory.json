@@ -7,6 +7,27 @@
 		},
 		"LS_ADLS_properties_typeProperties_url": {
 			"value": "https://caresysncproject.dfs.core.windows.net/"
+		},
+		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://caresynckeyvault010.vault.azure.net/"
+		},
+		"LS_AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "caresysn-server.database.windows.net"
+		},
+		"LS_AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "sql-db-caresync"
+		},
+		"LS_AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "databeli"
+		},
+		"LS_PostgreSql_properties_typeProperties_server": {
+			"value": "ep-crimson-morning-a171pql6-pooler.ap-southeast-1.aws.neon.tech"
+		},
+		"LS_PostgreSql_properties_typeProperties_database": {
+			"value": "neondb"
+		},
+		"LS_PostgreSql_properties_typeProperties_username": {
+			"value": "neondb_owner"
 		}
 	}
 }
